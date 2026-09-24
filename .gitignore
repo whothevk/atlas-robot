@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Arduino / PlatformIO
+.pio/
+.vscode/
+*.hex
+*.elf
+
+# Arquivos de Sistema e IDEs
+.DS_Store
+Thumbs.db
+*.bak
